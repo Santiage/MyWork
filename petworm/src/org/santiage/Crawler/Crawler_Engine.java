@@ -61,7 +61,7 @@ public class Crawler_Engine // implements Runnable
 		}
 		
 //		BufferedReader reader = new BufferedReader(new InputStreamReader(hc.InputStream()));
-		ha.input_data(is);
+		ha.analysis_data(is);
 		
 		
 	}
